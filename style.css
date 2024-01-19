@@ -122,7 +122,7 @@ main{
 .card-title{
 
     font-family: 'Big Shoulders Display';
-    font-size: 32px;
+    font-size: 2rem;
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
 
@@ -134,18 +134,18 @@ main{
 
 .card-text{
     font-family: 'Lexend Deca';
-    font-size: 15px;
+    font-size: 1rem;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5em;
 }
 
 a.learn{
-    background-color: hsla(0, 0%, 100%, 0.75);
+    background-color: hsla(0, 0%, 100%);
 
     border-radius: 3rem;
     border-style: solid;
     border-width: 2px;
-    border-color: hsla(0, 0%, 100%, 0.75);
+    border-color: hsla(0, 0%, 100%);
 
     font-family: 'Lexend Deca';
     font-size: 15px;
